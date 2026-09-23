@@ -8,9 +8,9 @@ API REST desarrollada con Java y Spring Boot para registrar los resultados de lo
 - Spring Boot 4.1.1
 - Maven
 - Spring Web MVC
-- Spring Data JPA
-- PostgreSQL
 - Git / GitHub
+- Docker
+- Render
 
 ## Funcionamiento
 
